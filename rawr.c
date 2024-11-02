@@ -164,7 +164,7 @@ void menu() {
                 printf("Keluar program.\n");
                 break;
             default:
-                printf("Pilihan tidak valid.\n");
+                printf("Pilihan tidak valdi.\n");
         }
     } while (choice != 5);
 }
