@@ -142,7 +142,7 @@ void menu() {
         printf("2. View Anime\n");
         printf("3. Edit Anime\n");
         printf("4. Delete Anime\n");
-        printf("5. Exit\n");
+        printf("5. Keluar\n");
         printf("Pilih menu: ");
         scanf("%d", &choice);
 
