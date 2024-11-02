@@ -137,7 +137,7 @@ void deleteAnime() {
 void menu() {
     int choice;
     do {
-        printf("\nMenu:\n");
+        printf("\nSi admin mau ngapain jir:\n");
         printf("1. Input Data Anime\n");
         printf("2. View Anime\n");
         printf("3. Edit Anime\n");
